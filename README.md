@@ -1,2 +1,2 @@
 # VorbauServerNET
-## Base-URL: https:/www.vorbauserver.net
+## Base-URL: https://www.vorbauserver.net
