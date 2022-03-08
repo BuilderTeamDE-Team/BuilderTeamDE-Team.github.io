@@ -1,2 +1,2 @@
-# VorbauServerNET
-## Base-URL: https://www.vorbauserver.net
+# BuilderTeamDE
+## Base-URL: https://www.builderteam.de
